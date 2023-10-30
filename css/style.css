@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CLASSI HEADER*/
+
+.main-div-header {
+    background-color: orange;
+}
+
+.contenitore-header {
+    background-color: rgb(173, 91, 91);
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    width: 80%;
+    justify-content: center;
+}
+
+/*PARTE MAIN*/
+.main-title {
+    text-align: center;
+}
