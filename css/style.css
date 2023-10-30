@@ -16,7 +16,7 @@ main {
 /* CLASSI HEADER*/
 
 .main-div-header {
-    background-color: orange;;
+    background-color: orange;
     display: flex;
     flex-direction: row;
     height: 55px;
@@ -26,7 +26,7 @@ main {
 }
 
 .contenitore-header {
-    background-color: orange;
+    background-color: rgb(244, 116, 43);
     display: flex;
     flex-direction: row;
     height: 55px;
@@ -99,6 +99,7 @@ main {
     justify-content: space-between;
     margin-top: 50px;
     align-items: center;
+    min-width: 100%;
 }
 
 .div-footer {
